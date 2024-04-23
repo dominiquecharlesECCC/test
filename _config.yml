@@ -8,5 +8,5 @@ relative_links:
 include:
   - README.md
 navigation:
-  - text: readme.md
-    internal: true
+  - text: structure.md
+    
