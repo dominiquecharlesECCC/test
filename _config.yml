@@ -1,8 +1,12 @@
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-relative-links
+  - jekyll-default-layout
 relative_links:
   enabled: true
   collections: true
 include:
   - README.md
+navigation:
+  - text: readme.md
+    internal: true
